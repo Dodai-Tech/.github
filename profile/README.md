@@ -42,12 +42,6 @@ dodai-ui and deploys them to Cloudflare.
 [GitHub](https://github.com/Dodai-Tech/dodaitech-website) ·
 [dodaitech.dev](https://dodaitech.dev)
 
-### privacy
-Privacy policies for our apps.
-
-[GitHub](https://github.com/Dodai-Tech/privacy) ·
-[Website](https://dodaitech.dev/privacy/)
-
 Some of our work, like the watch faces, isn't public yet. We'll add it here when
 it is.
 
